@@ -30,7 +30,11 @@ https://docs.google.com/presentation/d/1t_mQokXssMODtUh90wsy6WMyNMieEszLuGsTfJn9
 
 Hugging face 
 sachin.instrons@
-Neal$$786>>
+Neal$$...>>
+
+GIT LOgin
+Sachin.instrons@gmai
+Khagisha$...
 
 https://platform.openai.com/docs/api-reference/evals
 
