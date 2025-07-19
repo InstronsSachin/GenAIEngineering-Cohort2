@@ -25,5 +25,14 @@ https://docs.google.com/spreadsheets/d/1BKm-jgu07j3D0pU_voE213MCSJgnGarrKLIWZxaJ
 GEF C2 Idea Pool
 https://docs.google.com/spreadsheets/d/1ofjG1_xZ6ZwIh7F-CioPF5EHo6_Ru8wlliuSJmq22E4/edit?gid=1452336841#gid=1452336841
 
+Prompt Engineering
+https://docs.google.com/presentation/d/1t_mQokXssMODtUh90wsy6WMyNMieEszLuGsTfJn9kp0/edit?slide=id.g34af4d4e340_0_21#slide=id.g34af4d4e340_0_21
 
+Hugging face 
+sachin.instrons@
+Neal$$786>>
 
+https://platform.openai.com/docs/api-reference/evals
+
+Transformer Arch Document
+https://docs.google.com/presentation/d/1YfLodIMM3LH4GAnHd1EgG_OyupWrIMAnlEgA_OpFE-Y/edit?slide=id.g34af4d4e340_0_21#slide=id.g34af4d4e340_0_21
