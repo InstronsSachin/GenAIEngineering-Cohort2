@@ -40,3 +40,10 @@ https://platform.openai.com/docs/api-reference/evals
 
 Transformer Arch Document
 https://docs.google.com/presentation/d/1YfLodIMM3LH4GAnHd1EgG_OyupWrIMAnlEgA_OpFE-Y/edit?slide=id.g34af4d4e340_0_21#slide=id.g34af4d4e340_0_21
+
+
+Vineet Slides about Week 4 
+https://docs.google.com/presentation/d/1uSusJHnAu-w4EiBsNa_bb0AsXBmrriCCXyxib0shBJY/edit?slide=id.g356576dd98f_0_969#slide=id.g356576dd98f_0_969
+
+Med doc data model
+https://deepmind.google/models/gemma/medgemma/
