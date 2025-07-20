@@ -47,3 +47,19 @@ https://docs.google.com/presentation/d/1uSusJHnAu-w4EiBsNa_bb0AsXBmrriCCXyxib0sh
 
 Med doc data model
 https://deepmind.google/models/gemma/medgemma/
+
+Chunking and Indexing.
+https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing
+
+https://notebooklm.google.com/
+
+Generating a Podcast uisng the document
+https://huggingface.co/nari-labs/Dia-1.6B
+
+Vector Databases
+pinecone
+weaviate
+quadrant 
+
+Traditional DB
+pgvector extension in postgres
